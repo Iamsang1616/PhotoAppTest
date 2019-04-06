@@ -2,4 +2,5 @@
     <string name="app_name">Photo App Test</string>
     <string name="photo_button">Take a Photo</string>
     <string name="back">Go Back</string>
+    <string name="imageView_desc">Display Thumbnail here</string>
 </resources>
