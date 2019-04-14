@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <paths xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <!--SHOULD BE THE PACKAGE NAME INSTEAD OF sarin_i.photoapptest WHEN MOVING TO OTHER THINGS-->
-    <external-path name="my_images" path="Android/data/sarin_i.photoapptest/files/Pictures" />
+    <!--SHOULD BE THE PATH OF THE PUBLIC PHOTOS DIRECTORY-->
+    <external-path name="my_images" path="/Pictures" />
 </paths>
